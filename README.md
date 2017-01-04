@@ -31,3 +31,7 @@ This is a personal assignment, please complete it **individually**.
 - **Q4**) The example provided in the notebook is a "bare bones"
     one. For a more complete example see
     [facedetect.py](https://github.com/Itseez/opencv/blob/master/samples/python2/facedetect.py). Read it and understand how it works.
+    
+ ## Instructions cpp
+ 
+ From cpp>build folder run: 1)cmake .. 2)make 3)./Face_Detector
